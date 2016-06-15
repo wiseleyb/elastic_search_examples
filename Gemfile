@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'elasticsearch-rails', '~> 0.1.9'
+gem 'elasticsearch-model', '~> 0.1.9'
 
 gem 'ffaker'
 # Use ActiveModel has_secure_password
